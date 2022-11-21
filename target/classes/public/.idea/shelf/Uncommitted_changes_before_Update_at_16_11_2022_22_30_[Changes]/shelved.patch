@@ -1,0 +1,11 @@
+Index: ../front-end/.env
+===================================================================
+diff --git a/../front-end/.env b/../front-end/.env
+--- a/../front-end/.env	
++++ b/../front-end/.env	
+@@ -1,1 +1,2 @@
+-REACT_APP_API_KEY = https://sistema-delivey-app.herokuapp.com/
+\ No newline at end of file
++REACT_APP_API_KEY = AIzaSyCbiy7PJZ2T3S1ofa-7BimOZUJG7sFBl6w
++BACK-END_API_KEY = https://sistema-delivey-app.herokuapp.com/
+\ No newline at end of file

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="Sistema_Delivery">
+  <database-model serializer="dbm" dbms="MONGO" family-id="MONGO" format-version="4.43">
+    <root id="1">
+      <ServerVersion>5.0.13</ServerVersion>
+    </root>
+    <schema id="2" parent="1" name="admin"/>
+    <schema id="3" parent="1" name="local"/>
+    <table id="4" parent="3" name="oplog.rs"/>
+    <column id="5" parent="4" name="ns">
+      <DataType>String|12s</DataType>
+      <Position>1</Position>
+    </column>
+    <column id="6" parent="4" name="o">
+      <DataType>Object|4999544s</DataType>
+      <Position>2</Position>
+    </column>
+    <column id="7" parent="4" name="o._id">
+      <DataType>ObjectId|12s</DataType>
+      <Position>3</Position>
+    </column>
+    <column id="8" parent="4" name="o.drop">
+      <DataType>String|12s</DataType>
+      <Position>4</Position>
+    </column>
+    <column id="9" parent="4" name="o2">
+      <DataType>Object|4999544s</DataType>
+      <Position>5</Position>
+    </column>
+    <column id="10" parent="4" name="o2.numRecords">
+      <DataType>Int32|4s</DataType>
+      <Position>6</Position>
+    </column>
+    <column id="11" parent="4" name="op">
+      <DataType>String|12s</DataType>
+      <Position>7</Position>
+    </column>
+    <column id="12" parent="4" name="t">
+      <DataType>Int64|12s</DataType>
+      <Position>8</Position>
+    </column>
+    <column id="13" parent="4" name="ts">
+      <DataType>BsonTimestamp|12s</DataType>
+      <Position>9</Position>
+    </column>
+    <column id="14" parent="4" name="ui">
+      <DataType>UUID|12s</DataType>
+      <Position>10</Position>
+    </column>
+    <column id="15" parent="4" name="v">
+      <DataType>Int64|12s</DataType>
+      <Position>11</Position>
+    </column>
+    <column id="16" parent="4" name="wall">
+      <DataType>ISODate|91s</DataType>
+      <Position>12</Position>
+    </column>
+  </database-model>
+</dataSource>
