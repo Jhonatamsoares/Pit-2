@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b0a1fd-7dd0-46aa-802f-30c82425a7d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NEUEat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Delivery.iml" afterDir="false" />
-    </list>
+    <list default="true" id="40b0a1fd-7dd0-46aa-802f-30c82425a7d0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,12 +35,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/55389/Documents/Pit2/Pit-2",
-    "spring.configuration.checksum": "188a9330c787ddccde0fd6aaa842a55a"
+    "spring.configuration.checksum": "065ab3a28ca4f16f55f103adc7d0226f"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="NeuEatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="NEUEat" />
+    <configuration name="DeliveryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <option name="ACTIVE_PROFILES" />
+      <module name="Delivery" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs5500.Delivery.DeliveryApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +58,7 @@
       <updated>1669080854625</updated>
       <workItem from="1669080868671" duration="876000" />
       <workItem from="1669137051090" duration="129000" />
+      <workItem from="1669152740860" duration="109000" />
     </task>
     <servers />
   </component>
