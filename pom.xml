@@ -11,7 +11,7 @@
 	<groupId>com.cs5500</groupId>
 	<artifactId>Delivery</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>NEUEat</name>
+	<name>Delivery</name>
 	<description>spring-react-mongo</description>
 
 	<properties>
