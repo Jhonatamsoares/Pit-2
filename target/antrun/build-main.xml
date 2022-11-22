@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <copy todir="C:\Users\55389\Documents\Pit2\Pit-2\target/classes/public">
+    <fileset dir="C:\Users\55389\Documents\Pit2\Pit-2/front-end/build"/>
+  </copy>
+</target>
+</project>
