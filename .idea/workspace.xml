@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="40b0a1fd-7dd0-46aa-802f-30c82425a7d0" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NEUEat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NEUEat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NEUEat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Delivery.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
   <component name="RunManager">
     <configuration name="NeuEatApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="NEUEat" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs5500.NEUEat.NeuEatApplication" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cs5500.Delivery.DeliveryApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
