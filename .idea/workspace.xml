@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="40b0a1fd-7dd0-46aa-802f-30c82425a7d0" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Procfile" beforeDir="false" afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/asset-manifest.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/precache-manifest.41b206903983c16b6b983c323f0a44f8.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/css/main.27ac08eb.chunk.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/css/main.27ac08eb.chunk.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/js/2.8f44f839.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/js/2.8f44f839.chunk.js.LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/js/2.8f44f839.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/js/main.b09ac993.chunk.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/js/main.b09ac993.chunk.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/js/runtime-main.e327d292.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/public/static/js/runtime-main.e327d292.js.map" beforeDir="false" />
-    </list>
+    <list default="true" id="40b0a1fd-7dd0-46aa-802f-30c82425a7d0" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +31,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
@@ -75,7 +62,7 @@
       <updated>1669080854625</updated>
       <workItem from="1669080868671" duration="876000" />
       <workItem from="1669137051090" duration="129000" />
-      <workItem from="1669152740860" duration="7621000" />
+      <workItem from="1669152740860" duration="8208000" />
     </task>
     <servers />
   </component>

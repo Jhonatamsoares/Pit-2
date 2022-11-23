@@ -1,36 +1,37 @@
 # Sistema-Delivery
-Este é um aplicativo de entrega de comida usando Springboot + React + MongoDB. O aplicativo é implantado no Heroku: https://delivery-sist.herokuapp.com/#/login
+Este é um aplicativo de delivery usando Springboot + React + MongoDB. O aplicativo é implantado no Heroku: https://delivery-sist.herokuapp.com/#/login
 
-O aplicativo permite que os usuários simulem entre cliente, motorista e restaurante em um sistema de entrega de comida.
+O aplicativo permite que os usuários simulem entre cliente, entregador e estabelecimento em um sistema de delivery.
 
 Página de login
 
-<img width="600" height="400" src="prints_screen_windows/Tela_de_Login.JPG"/>
+<img width="600" height="400" src="prints_screen_windows/Login.JPG"/>
 
 Pádina de registro
 
-<img width="600" height="400" src="prints_screen_windows/Tela_de_Cadastro.JPG"/>
+<img width="600" height="400" src="prints_screen_windows/Cadastro.JPG"/>
 
 Pesquisa do cliente por restaurante ou comida
 
-<img width="600" height="400" src="prints_screen_windows/?"/>
+<img width="600" height="400" src="prints_screen_windows/Busca_Produto_ou_Estabelecimento.JPG"/>
 
 Pedido do Cliente
 
-<img width="600" height="400" src="prints_screen_windows/?"/>
+<img width="600" height="400" src="prints_screen_windows/Pedido_Cliente.JPG"/>
 
-Motorista Aceitar/Finalizar o Pedido
+Entregador Aceitar/Finalizar o Pedido
 
-<img width="600" height="400" src="prints_screen_windows/?"/>
+<img width="600" height="400" src="prints_screen_windows/Entregador_Recebendo_Pedido.JPG"/>
+<img width="600" height="400" src="prints_screen_windows/Entregador_Finalizando_Pedido.JPG"/>
 
-Informações de edição do restaurante
+Edição de informações do estabelecimento
 
-<img width="600" height="400" src="prints_screen_windows/?"/>
+<img width="600" height="400" src="prints_screen_windows/Informações_Estabelecimento.JPG"/>
 
-Restaurante Adicionar ou Excluir Menu
+Adicionar ou excluir Produtos
 
-<img width="600" height="400" src="prints_screen_windows/?"/>
+<img width="600" height="400" src="prints_screen_windows/Cadastro_Produto.JPG"/>
 
 Cliente Adicionar ou Excluir Comentário e Avaliação
 
-<img width="600" height="400" src="prints_screen_windows/?"/>
+<img width="600" height="400" src="prints_screen_windows/Comentario_cliente.JPG"/>
