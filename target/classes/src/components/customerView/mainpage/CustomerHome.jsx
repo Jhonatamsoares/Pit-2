@@ -61,7 +61,7 @@ class CustomerHome extends React.Component {
             <Paper component="form" onSubmit={this.handleSearch} style={{width: 400, padding: '2px 4px', display: "spac"}} >
               <InputBase
                 style={{marginLeft: '10px', width: 325}}
-                placeholder="Procurar estabelecimento de alimentação"
+                placeholder="Search Restaurant or Food"
                 value={this.state.searchText}
                 onChange={event => this.handleChange({searchText: event.target.value})}
               />
